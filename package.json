@@ -1,0 +1,36 @@
+{
+  "name": "favouritethings",
+  "version": "1.0.0",
+  "description": "My favourite things",
+  "main": "app.js",
+  "dependencies": {
+    "cssnano": "^4.1.10",
+    "each": "^1.2.1",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "handlebars-helper-each": "^0.1.2",
+    "hbs": "^4.0.6",
+    "postcss": "^7.0.21",
+    "prefixer": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiecollins/Collins_A_FavouriteThings.git"
+  },
+  "keywords": [
+    "favourite",
+    "things",
+    "project"
+  ],
+  "author": "Amie Collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amiecollins/Collins_A_FavouriteThings/issues"
+  },
+  "homepage": "https://github.com/amiecollins/Collins_A_FavouriteThings#readme"
+}
