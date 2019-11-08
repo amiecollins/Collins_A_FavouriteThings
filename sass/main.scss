@@ -1,0 +1,40 @@
+@import "_vars.scss";
+@import "components/_wrapper.scss";
+
+body {
+    background-color: $main-text-color;
+    color: $main-text-color;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: $title-color;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    color: $title-color;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+h3 {
+    color: $subtitle-color;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h4 {
+    color: $subtitle-color;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    font-size: 15px;
+    text-align: left;
+}

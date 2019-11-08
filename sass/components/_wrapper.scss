@@ -1,0 +1,27 @@
+@import "_vars.scss";
+
+.wrapper {
+    background-color: $main-color;
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.allthethings {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.thingwrapper {
+    border: 1px solid grey;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    padding: 30px;
+    width: 15%;
+}
+
+.pictureBox img {
+    max-width: 100%;
+}
