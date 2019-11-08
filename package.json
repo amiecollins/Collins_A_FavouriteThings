@@ -5,12 +5,11 @@
   "main": "app.js",
   "dependencies": {
     "cssnano": "^4.1.10",
-    "each": "^1.2.1",
     "express": "^4.17.1",
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
-    "handlebars-helper-each": "^0.1.2",
     "hbs": "^4.0.6",
+    "mysql": "^2.17.1",
     "postcss": "^7.0.21",
     "prefixer": "0.0.3"
   },
