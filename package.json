@@ -14,7 +14,7 @@
     "hbs": "^4.0.6",
     "helpers-hbs": "^0.3.4",
     "mysql": "^2.17.1",
-    "postcss": "^7.0.21",
+    "postcss": "^7.0.36",
     "prefixer": "0.0.3"
   },
   "devDependencies": {},
